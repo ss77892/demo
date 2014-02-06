@@ -1,4 +1,6 @@
 demo
+Required stuff
+This is a simple test
 ====
 
 
